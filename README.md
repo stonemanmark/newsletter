@@ -8,6 +8,6 @@ Rights explanation: [https://markstoneman.com/rights](https://markstoneman.com/r
 
 Learn more about this site: [https://stoneman.page/about](https://stoneman.page/about)
 
-The newsletter archive is at [https://stoneman.page/archive](https://stoneman.page/archive)
+The newsletter archive: [https://stoneman.page/archive](https://stoneman.page/archive)
 
-My main site is [https://markstoneman.com](https://markstoneman.com)
+Main site: [https://markstoneman.com](https://markstoneman.com)
