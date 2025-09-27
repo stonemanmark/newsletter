@@ -1,6 +1,6 @@
 # blog-backup
 
-Backup of my [Stoneman's Corner](https://stoneman.page) via Micro.blog
+Backup of [Stoneman's Corner](https://stoneman.page) via Micro.blog
 
 License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
