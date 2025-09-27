@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Stoneman's Corner",
+	"icon": "https://avatars.micro.blog/avatars/2025/06/1615036.jpg",
+	"home_page_url": "https://stoneman.page/",
+	"feed_url": "https://stoneman.page/feed.json",
+	"items": [
+		
+			{
+				"id": "http://newsletter.micro.blog/2025/09/21/newsletter-reboot.html",
+				"title": "Newsletter Reboot",
+				"content_html": "<p><em>I sent out the following message from my own domain to former subscribers to mark the reboot of the newsletter. I might send one more such note in a few weeks, depending on the response, but that will be it. The newsletter is opt-in.</em></p>\n<p>Hello!</p>\n<p>You once subscribed to emails from my blog at <a href=\"https://markstoneman.com\">markstoneman.com</a>. These stopped around 2021 or 2022, when my old host, Wordpress dot com, ruined that feature. I have finally restored this functionality to my blog at its current home, Micro dot blog.</p>\n<p>The blog’s domain is the same; however, I will curate the newsletter on <a href=\"https://stoneman.page\">stoneman.page</a> every week or two.</p>\n<p>You can subscribe to the newsletter at <a href=\"https://stoneman.page/about\">stoneman.page/about</a>, or simply reply to this email with your request. The newsletter itself will come from the host’s domain, in this case <a href=\"mailto:markstoneman@hello.micro.blog\">markstoneman@hello.micro.blog</a>.</p>\n<p>Best wishes,</p>\n<p>Mark Stoneman</p>\n<p>Historian, editor, and translator for hire (German to English)</p>\n<p>🦣 <a href=\"https://zirk.us/@markstoneman/\">@markstoneman.zirk.us</a><br>\n🦋 <a href=\"https://bsky.app/profile/markstoneman.com\">@markstoneman.com</a></p>\n",
+				"content_text": "_I sent out the following message from my own domain to former subscribers to mark the reboot of the newsletter. I might send one more such note in a few weeks, depending on the response, but that will be it. The newsletter is opt-in._\n\n<p>Hello!</p>\n\n<p>You once subscribed to emails from my blog at <a href=\"https://markstoneman.com\">markstoneman.com</a>. These stopped around 2021 or 2022, when my old host, Wordpress dot com, ruined that feature. I have finally restored this functionality to my blog at its current home, Micro dot blog.</p>\n\n<p>The blog’s domain is the same; however, I will curate the newsletter on <a href=\"https://stoneman.page\">stoneman.page</a> every week or two.</p>\n\n<p>You can subscribe to the newsletter at <a href=\"https://stoneman.page/about\">stoneman.page/about</a>, or simply reply to this email with your request. The newsletter itself will come from the host’s domain, in this case <a href=\"mailto:markstoneman@hello.micro.blog\">markstoneman@hello.micro.blog</a>.</p>\n\n\n<p>Best wishes,</p>\n\n<p>Mark Stoneman</p>\n\n<p>Historian, editor, and translator for hire (German to English)</p>\n\n🦣 [@markstoneman.zirk.us](https://zirk.us/@markstoneman/)<br>\n🦋 [@markstoneman.com](https://bsky.app/profile/markstoneman.com)\n",
+				"date_published": "2025-09-21T18:33:55-04:00",
+				"url": "https://stoneman.page/2025/09/21/newsletter-reboot.html"
+			}
+	]
+}
